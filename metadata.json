@@ -1,0 +1,6 @@
+{
+  "name": "Queue Cure '26",
+  "description": "A real-time clinic queue management system featuring live synchronization between receptionists and patient waiting rooms, with dynamic wait-time calculators based on custom consult intervals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
